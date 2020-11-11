@@ -1,3 +1,3 @@
 # Swift Containers
 
-A description of this package.
+A Swift package for containers (collections). 
