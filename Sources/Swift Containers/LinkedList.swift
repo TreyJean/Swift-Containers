@@ -1,8 +1,6 @@
 //  Linked List in Swift
 //  Created by Trey Jean on 11/10/20.
 
-import Foundation
-
 // Linked List
 public class LinkedList<Element: Comparable> : Sequence {
     
